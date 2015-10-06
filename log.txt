@@ -1,0 +1,11 @@
+1.0.2 : Fixed issue : Modify header information.
+Remove folder inc/extra.
+modified file functions.php
+
+1.0.3: 
+Fix install sample data.
+modified style layout portfolio circles.
+
+1.0.4.
+Fix same height item of shortcode fancyboxes
+Fix Error: parse error: failed at `$breadcrumb_font_size:;$breadcrumb_line_height:;$breadcrumb_color:;` 
